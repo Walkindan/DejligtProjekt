@@ -4,4 +4,8 @@ Nej, jeg manglede et >>
 Endnu en linje 
 =======
 testny5
+<<<<<<< HEAD
 >>>>>>> 2651a05313133ccc533a9e12f27a2323607eb30b
+=======
+så kommer der en til setning
+>>>>>>> a386315b653cfa1220c0720c5cef8db251ea401d
