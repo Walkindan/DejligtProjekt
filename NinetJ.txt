@@ -1,3 +1,7 @@
 Nu med to linjer
 Nej, jeg manglede et >>
+<<<<<<< HEAD
 Endnu en linje 
+=======
+testny5
+>>>>>>> 2651a05313133ccc533a9e12f27a2323607eb30b
